@@ -1,5 +1,5 @@
 """
-    PNU CSE TECH WEEK 2002
+    PNU CSE TECH WEEK 2022
 
     PNU Deep Learning Challenge - Track 01. Landmark Classification
 
